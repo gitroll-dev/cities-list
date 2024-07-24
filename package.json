@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "cities-list",
+  "version": "1.0.0",
+  "main": "world-cities.nano.json",
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "countries-list": "^3.1.0",
+    "csv-parse": "^5.5.6",
+    "typescript": "^5.5.4"
+  }
+}
